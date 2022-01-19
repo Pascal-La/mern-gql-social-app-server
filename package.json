@@ -16,5 +16,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": "https://github.com/Pascal-La/mern-gql-social-app-server.git",
+  "author": "PascalPromoTrinity <lapascal89@gmail.com>"
 }
